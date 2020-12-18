@@ -74,6 +74,7 @@ console.log(formatter.format(stats.cases))
 
   return (
     <React.Fragment>
+      <h1>COVID-19 Numbers</h1>
       <CssBaseline />
       <main>
         <Container className={classes.cardGrid} maxWidth="600px">

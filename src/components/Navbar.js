@@ -11,7 +11,7 @@ function Navbar() {
   const closeMobileMenu = () => setClick(false);
   
   const showButton = () => {
-    if (window.innerWidth <= 960) {
+    if (window.innerWidth <= 1110) {
       setButton(false);
     } else {
       setButton(true);
@@ -29,7 +29,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-            COVID-19 Tracker  <i class="fas fa-viruses"></i>
+            COVID-19-Tracker  <i class="fas fa-viruses"></i>
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"}></i>
@@ -56,6 +56,15 @@ function Navbar() {
                 onClick={closeMobileMenu}
               >
                 Useful Resources
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
+                to="/about"
+                className="nav-links"
+                onClick={closeMobileMenu}
+              >
+                About Us
               </Link>
             </li>
           </ul>
