@@ -3,12 +3,14 @@ import '../../App.css';
 import HeroSection from '../HeroSection';
 import Cards from '../Cards';
 import Footer from '../Footer';
+import NumCards from '../NumCards';
 
 function Home() {
     return(
         <>
             <HeroSection />
             <Cards />
+            <NumCards />
             <div className=''>
                 <div>
                     <h1>

@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 import '../Cards.css';
 import Footer from '../Footer';
-
+import NumCards from '../NumCards';
 
 
 function Charts() {
@@ -23,6 +23,7 @@ function Charts() {
                     </ul>
                 </div>
             </div>
+            <NumCards />
             <Footer />
         </>
     );

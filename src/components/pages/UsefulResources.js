@@ -13,7 +13,7 @@ function UsefulResources() {
                     <ul className='cards__items'>
                         <h3>COVID-19 Testing Orange County</h3>
                         <a href='https://360clinic.fulgentgenetics.com/appointment/screen/landing'>
-                            <img className='cards__item__pic-wrap-rec' alt='testing' src='https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/coronavirus/coronavirus-test-teaser.ashx'></img>
+                            <img className='cards__item__pic-wrap-rec' alt='testing' src='https://d1.ocgov.com/sites/bos1.egovoc.com/files/inline-images/OC%20COVID-19%20Testing%20Super%20Site%20Thumbnail%20.jpg'></img>
                         </a>
                     </ul>
                     <ul>

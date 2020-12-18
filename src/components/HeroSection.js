@@ -3,6 +3,8 @@ import '../App.css';
 import { Button } from './Button';
 import './HeroSection.css';
 
+
+
 function HeroSection() {
   return (
     <div className="hero-container">
@@ -16,7 +18,7 @@ function HeroSection() {
         >
           View Charts
         </Button>
-        
+
       </div>
     </div>
   );
