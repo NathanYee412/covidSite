@@ -16,13 +16,7 @@ function HeroSection() {
         >
           View Charts
         </Button>
-        <Button
-          className="btns"
-          buttonStyle="btn--primary"
-          buttonSize="btn--large"
-        >
-          Useful Resources
-        </Button>
+        
       </div>
     </div>
   );
