@@ -10,7 +10,7 @@ function Charts() {
         <>
             <div>
                 <div>
-                    <h1>
+                    <h1 className="chart-title">
                         COVID-19 Data Charts
                     </h1>
                 </div>

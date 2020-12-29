@@ -28,7 +28,7 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+          <Link to="/covidSite" className="navbar-logo" onClick={closeMobileMenu}>
             COVID-19-Tracker  <i class="fas fa-viruses"></i>
           </Link>
           <div className="menu-icon" onClick={handleClick}>
