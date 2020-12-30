@@ -1,3 +1,5 @@
+![Site Gif](https://media3.giphy.com/media/yNugI1MXy1CltH50qv/giphy.gif)
+
 # HOW TO RUN
 1. Download git files
 2. change directory to the /covidSite folder
