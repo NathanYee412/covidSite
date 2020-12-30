@@ -20,6 +20,4 @@
 - Alexis Reyes
 
 ## Webiste Demo
-https://fullerton.zoom.us/rec/share/enZdb_9AXlylJczBaVLMcyPaE7LvKPHVpoG4qFOvor2qgSe0SvFzMR0WiD-EsJL6.6hCzLMGBIcjawbyR
-Passcode: G9tUPF+w 
-
+http://NathanYee412.github.io/covidSite
